@@ -1,0 +1,9 @@
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.exe.config
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.exe
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.pdb
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.Form1.resources
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.Properties.Resources.resources
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.csproj.GenerateResource.Cache
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.exe
+D:\Projects\CSharpProject\ProjectMart\KeyGenerator\KeyGenerator\KeyGenerator\obj\Debug\KeyGenerator.pdb

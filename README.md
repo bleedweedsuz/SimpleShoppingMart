@@ -1,9 +1,6 @@
 # SimpleShoppingMart
 A simple and useful shopping mart billing system
 <h5>Fully Functional Shopping mart billing system</h5>
-
-<br/>
-
 <h5>Features</h5>
 <ol>
 	<li>Product Management</li>
